@@ -1,0 +1,12 @@
+{
+  "views_max": 99108,
+  "views_min": 926,
+  "views_sum": 3913322,
+  "views_avg": 50170.7949,
+  "views_standard_deviation": 28539.0349,
+  "type_frequencies": {
+    "circular": 0.282,
+    "Swiss": 0.346,
+    "Olympic": 0.372
+  }
+}
