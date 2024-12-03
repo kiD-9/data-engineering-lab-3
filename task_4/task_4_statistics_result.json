@@ -1,0 +1,14 @@
+{
+  "price_max": 999826,
+  "price_min": 100021,
+  "price_sum": 2516540973,
+  "price_avg": 549943.3944,
+  "price_standard_deviation": 258557.7653,
+  "size_frequencies": {
+    "XXL": 0.204,
+    "XL": 0.19,
+    "S": 0.196,
+    "M": 0.207,
+    "L": 0.203
+  }
+}
